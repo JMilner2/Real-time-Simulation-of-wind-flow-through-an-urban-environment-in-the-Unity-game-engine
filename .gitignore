@@ -1,0 +1,25 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+Recordings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.unityproj
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plastic SCM
+.plastic/
